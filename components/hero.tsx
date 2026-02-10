@@ -9,8 +9,7 @@ export function Hero() {
       </h1>
       
       <p className="text-xl text-muted-foreground max-w-[42rem] leading-normal">
-        Your intelligent learning companion. We provide personalized guidance 
-        and smart recommendations to help you achieve your goals faster.
+        Your intelligent learning companion. We provide personalized guidance.
       </p>
     </div>
   );
